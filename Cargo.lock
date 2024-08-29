@@ -468,7 +468,7 @@ dependencies = [
 [[package]]
 name = "fuser-async"
 version = "0.1.1"
-source = "git+https://github.com/cpg314/fuser-async?tag=v0.1.0#787176e475e3f8228f53e7f160c6cebd3a18ebd5"
+source = "git+https://github.com/cpg314/fuser-async?tag=v0.1.1#787176e475e3f8228f53e7f160c6cebd3a18ebd5"
 dependencies = [
  "anyhow",
  "async-trait",
